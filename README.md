@@ -10,7 +10,7 @@
 
 Welcome to the ultimate curated resource for **Metadata Management**, **Data Catalogs**, **Active Metadata**, **Data Governance**, **Data Lineage**, **Data Observability**, **Business Glossaries**, **Data Contracts**, and **AI/LLM Context Engines**.
 
-Whether you are evaluating enterprise SaaS solutions or building a modern composable data stack using open-source projects, this guide provides in-depth comparisons, specific pricing, live GitHub star badges, market analysis, and reference architectures.
+Whether you are evaluating enterprise SaaS solutions or building a modern composable data stack using open-source projects, this guide provides in-depth comparisons, specific pricing, live GitHub Stars_Badges, market analysis, and reference architectures.
 
 ---
 
@@ -75,9 +75,9 @@ Modern Metadata Management platforms provide a central control plane for underst
 
 Open-source metadata tools enable building modular, vendor-neutral metadata infrastructure.
 
-### 🏆 Open-Source Leaderboard (Sorted by GitHub Stars 🌟)
+### 🏆 Open-Source Leaderboard (Sorted by GitHub_Stars 🌟)
 
-| Rank | Project | Stars Badge | Primary Category | License | GitHub Repository |
+| Rank | Project | Stars_Badge | Primary Category | License | GitHub Repository |
 | :---: | :--- | :---: | :--- | :---: | :--- |
 | 1 | **Elasticsearch** | [<img src="https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white" alt="Elasticsearch stars"/>](https://github.com/elastic/elasticsearch/stargazers) | Search & Indexing Engine | Elastic-2.0 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) |
 | 2 | **Redis** | [<img src="https://img.shields.io/github/stars/redis/redis?style=social&color=white" alt="Redis stars"/>](https://github.com/redis/redis/stargazers) | Metadata Cache & Event Store | BSD-3-Clause | [redis/redis](https://github.com/redis/redis) |
